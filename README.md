@@ -101,15 +101,15 @@ These scenarios work together to provide a comprehensive testing environment for
 - Timing of eHMI signals
 - Effectiveness in different real-world situations
 
-### Running VR Simulations on Oculus Quest
+### Running VR Simulations on Meta Quest
 
-To run the VR scenarios on Oculus Quest:
+To run the VR scenarios on Meta Quest:
 
 1. **Prerequisites**
    - Windows PC
    - Meta Quest 2 or newer
    - USB-C cable for PC connection
-   - Oculus Link software installed
+   - Meta Air Link software installed
 
 2. **Setup Steps**
    - Connect your Meta Quest to your PC using the USB-C cable
