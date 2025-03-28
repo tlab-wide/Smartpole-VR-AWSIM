@@ -32,7 +32,7 @@ Ideal for researchers and developers working on:
 - AWSIM itself runs on Ubuntu 22.04 and Windows 10/11, but VR scenarios are mainly supported on Windows 10/11
 - Forked and compatible with the latest [Autoware](https://github.com/autowarefoundation/autoware)
 - Fully integrated with ROS 2 communication
-- VR Scenarios tested on Meta Quest 2 and 3
+- VR Scenarios tested on Meta Quest 2 and 3 and above 
 
 ---
 
