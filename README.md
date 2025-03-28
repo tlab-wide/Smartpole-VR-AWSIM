@@ -4,7 +4,8 @@ This is a fork of [tier4/AWSIM](https://tier4.github.io/AWSIM/GettingStarted/Qui
 The goal is to simulate infrastructure-to-human interaction experiences and evaluate **perceived safety, clarity, and timing of eHMIs** (external Human-Machine Interfaces) provided by SPIUs in urban environments.
 
 
-![AWSIM Screenshot](/README_img/VRScenarios/vr_scenarios_cover.png) 
+![AWSIM Screenshot](README_img/VRScenarios/vr_scenarios_cover.png) 
+
 *VR scenarios simulating infrastructure-to-human interactions with smartpoles, including blind spots, intersections, and pedestrian crossings*
 
 ---
@@ -53,6 +54,7 @@ The project includes four specialized VR scenarios located in `Assets/AWSIM/Scen
    - Includes buildings, vehicles, and pedestrians positioned to create blind spot situations
 
 ![Blind Spot VR Scenario](README_img/VRScenarios/blindspot_vr_scenario.png)
+
 *Blind Spot VR Scenario showing smartpole eHMIs helping with visibility in occluded areas*
 
 
@@ -63,6 +65,7 @@ The project includes four specialized VR scenarios located in `Assets/AWSIM/Scen
    - Perfect for evaluating how eHMIs can improve safety and communication at busy intersections
 
 ![Four Way Intersection VR Scenario](README_img/VRScenarios/fourway_intersection_vr_scenario.png)
+
 *Four Way Intersection VR Scenario demonstrating smartpole eHMIs at a complex urban intersection*
 
 3. **DeliveryRobotVRScenario**
@@ -71,6 +74,7 @@ The project includes four specialized VR scenarios located in `Assets/AWSIM/Scen
    - Includes sidewalks, delivery robots, and pedestrian paths
 
 ![Delivery Robot VR Scenario](README_img/VRScenarios/delivery_robot_vr_scenario.png)
+
 *Delivery Robot VR Scenario showing interactions between pedestrians and autonomous delivery robots*
 
 
@@ -81,6 +85,7 @@ The project includes four specialized VR scenarios located in `Assets/AWSIM/Scen
    - Important for evaluating the visibility and effectiveness of eHMIs during dark hours
 
 ![Night Time VR Scenario](README_img/VRScenarios/night_time_vr_scenario.png)
+
 *Night Time VR Scenario showing smartpole eHMIs in low-light conditions*
 
 
