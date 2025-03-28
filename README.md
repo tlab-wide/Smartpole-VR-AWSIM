@@ -68,7 +68,7 @@ The project includes four specialized VR scenarios located in `Assets/AWSIM/Scen
 *Four Way Intersection VR Scenario demonstrating smartpole eHMIs at a complex urban intersection*
 
 3. **DeliveryRobotVRScenario**
-   - Focuses on interactions between pedestrians and delivery robots
+   - Focuses on interactions between pedestrians and delivery robots -----conditon
    - Tests how smartpole-based eHMIs can facilitate safe coexistence between pedestrians and autonomous delivery robots
    - Includes sidewalks, delivery robots, and pedestrian paths
 
