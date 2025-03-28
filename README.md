@@ -32,7 +32,7 @@ Ideal for researchers and developers working on:
 - AWSIM itself runs on Ubuntu 22.04 and Windows 10/11, but VR scenarios are mainly supported on Windows 10/11
 - Forked and compatible with the latest [Autoware](https://github.com/autowarefoundation/autoware)
 - Fully integrated with ROS 2 communication
-- VR Scenarios tested on Oculus Quest 2 and 3
+- VR Scenarios tested on Meta Quest 2 and 3
 
 ---
 
@@ -107,13 +107,13 @@ To run the VR scenarios on Oculus Quest:
 
 1. **Prerequisites**
    - Windows PC
-   - Oculus Quest 2 or newer
+   - Meta Quest 2 or newer
    - USB-C cable for PC connection
    - Oculus Link software installed
 
 2. **Setup Steps**
-   - Connect your Oculus Quest to your PC using the USB-C cable
-   - Enable Oculus Link in your Quest settings
+   - Connect your Meta Quest to your PC using the USB-C cable
+   - Enable Meta Quest Air Link in your Quest settings
    - Open the project in Unity
    - Select your desired VR scenario from `Assets/AWSIM/Scenes/Main/`
    - Click the Play button in Unity
