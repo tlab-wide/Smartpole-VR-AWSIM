@@ -5,6 +5,10 @@ The goal is to simulate infrastructure-to-human interaction experiences and eval
 
 
 ![AWSIM Screenshot](README_img/VRScenarios/vr_scenarios_cover.png) 
+![AWSIM Screenshot](README_img/VRScenarios/av_ehmi.png) 
+
+
+
 
 *VR scenarios simulating infrastructure-to-human interactions with smartpoles, including blind spots, intersections, and pedestrian crossings*
 
