@@ -5,7 +5,6 @@ The goal is to simulate infrastructure-to-human interaction experiences and eval
 
 
 ![AWSIM Screenshot](README_img/VRScenarios/vr_scenarios_cover.png) 
-![AWSIM Screenshot](README_img/VRScenarios/av_ehmi.png) 
 
 
 
@@ -36,7 +35,19 @@ Ideal for researchers and developers working on:
 - AWSIM itself runs on Ubuntu 22.04 and Windows 10/11, but VR scenarios are mainly supported on Windows 10/11
 - Forked and compatible with the latest [Autoware](https://github.com/autowarefoundation/autoware)
 - Fully integrated with ROS 2 communication
-- VR Scenarios tested on Meta Quest 2 and 3 
+- VR Scenarios tested on Meta Quest 2 and 3
+
+### Available eHMI Assets
+
+| eHMI Description | Preview |
+| --- | --- |
+| Autonomous Vehicle with "GO" Display | ![eHMI Preview](README_img/VRScenarios/) |
+| Autonomous Vehicle with "STOP" Display | ![eHMI Preview](README_img/VRScenarios/) |
+| SPIU with "GO" Display | ![eHMI Preview](README_img/VRScenarios/) |
+| SPIU with "STOP" Display | ![eHMI Preview](README_img/VRScenarios/) |
+| Delivery Robot with "GO" Display | ![eHMI Preview](README_img/VRScenarios/) |
+| Delivery Robot with "STOP" Display | ![eHMI Preview](README_img/VRScenarios/) |
+
 ---
 
 ## 🚀 Getting Started
