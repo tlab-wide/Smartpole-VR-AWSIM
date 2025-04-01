@@ -39,14 +39,11 @@ Ideal for researchers and developers working on:
 
 ### Available eHMI Assets
 
-| eHMI Description | Preview |
-| --- | --- |
-| Autonomous Vehicle with "GO" Display | ![eHMI Preview](README_img/VRScenarios/) |
-| Autonomous Vehicle with "STOP" Display | ![eHMI Preview](README_img/VRScenarios/) |
-| SPIU with "GO" Display | ![eHMI Preview](README_img/VRScenarios/) |
-| SPIU with "STOP" Display | ![eHMI Preview](README_img/VRScenarios/) |
-| Delivery Robot with "GO" Display | ![eHMI Preview](README_img/VRScenarios/) |
-| Delivery Robot with "STOP" Display | ![eHMI Preview](README_img/VRScenarios/) |
+| eHMI Description | "GO" Display | "STOP" Display|
+| --- | --- | --- |
+| Autonomous Vehicle | <img src="README_img/VRScenarios/av_go.jpg" width="300px"> | <img src="README_img/VRScenarios/av_stop.jpg" width="300px"> |
+| Smartpole Interaction Unit | <img src="README_img/VRScenarios/spiu_go.jpg" width="300px"> | <img src="README_img/VRScenarios/spiu_stop.jpg" width="300px"> |
+| Delivery Robot | <img src="README_img/VRScenarios/delivery_go.jpg" width="300px"> | <img src="README_img/VRScenarios/delivery_stop.jpg" width="300px"> |
 
 ---
 
