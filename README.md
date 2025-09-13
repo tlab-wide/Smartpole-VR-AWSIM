@@ -160,7 +160,9 @@ See [LICENSE](./LICENSE) for details.
 ## 📬 Contact
 
 日本語/English OK  
-Email: TBD  
+Email: vishalchauhan@outlook.sg, yuasabe@gmail.com, anubhav2901@g.ecc.u-tokyo.ac.jp
+
+
 Discord: TBD  
 Twitter: TBD
 
