@@ -167,3 +167,20 @@ Twitter: TBD
 ---
 
 *Smartpole-VR-AWSIM is an experimental extension for human-centered smart infrastructure research. Contributions are welcome!*
+
+If you use this repository in your research, please cite the following paper:
+
+```bibtex
+@inproceedings{Chauhan2025SilentNegotiator,
+  author    = {Vishal Chauhan and Anubhav and Robin Sidhu and Yu Asabe and Kanta Tanaka and Chia-Ming Chang and Xiang Su and Ehsan Javanmardi and Takeo Igarashi and Alex Orsholits and Kantaro Fujiwara and Manabu Tsukada},
+  title     = {A Silent Negotiator? Cross-cultural VR Evaluation of Smart Pole Interaction Units in Dynamic Shared Spaces},
+  booktitle = {Proceedings of the 31st ACM Symposium on Virtual Reality Software and Technology (VRST '25)},
+  year      = {2025},
+  month     = {November},
+  pages     = {},
+  publisher = {ACM},
+  address   = {Montreal, QC, Canada},
+  doi       = {10.1145/3756884.3765991},
+  isbn      = {979-8-4007-2118-2/2025/11}
+}
+
